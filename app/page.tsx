@@ -1,19 +1,9 @@
-import Head from 'next/head'
 import Image from 'next/image'
 
 export default function Home() {
   return (
     <>
-    <Head>
-
-<title>Nitesh kumar </title>
-<meta name="description" content='nitesh' />
-<meta name="keywords" content='nitesh' />
-<meta property="og:title" content="singh is king" />
-<meta property="og:site_name" content='Wonderflow'></meta>
-<meta property="og:description" content='just for testing'/>
-<meta property="og:image" content='https://kinsta.com/wp-content/uploads/2020/08/tiger-jpg.jpg' />
-</Head>
+   
       <main className="flex min-h-screen flex-col items-center justify-between p-24">
         <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
           <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
