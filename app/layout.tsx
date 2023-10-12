@@ -17,15 +17,34 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      
 
-<title>Nitesh kumar </title>
-<meta name="description" content='nitesh' />
-<meta name="keywords" content='nitesh' />
-<meta property="og:title" content="singh is king" />
-<meta property="og:site_name" content='Wonderflow'></meta>
-<meta property="og:description" content='just for testing'/>
-<meta property="og:image" content='https://kinsta.com/wp-content/uploads/2020/08/tiger-jpg.jpg' />
+
+      <title>Nitesh kumar </title>
+      <head>
+        <link rel="stylesheet" href="https://static-production.npmjs.com/styles.cb65339e823461fa6d91.css" />
+        <title>next-seo - npm</title>
+        <meta data-react-helmet="true" http-equiv="cleartype" content="on" />
+        <meta data-react-helmet="true" name="apple-mobile-web-app-capable" content="yes" />
+        <meta data-react-helmet="true" name="viewport" content="width=device-width,minimum-scale=1.0,initial-scale=1,user-scalable=yes" />
+        <meta data-react-helmet="true" property="og:image" content="https://static-production.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" />
+        <meta data-react-helmet="true" name="msapplication-TileColor" content="#cb3837" />
+        <meta data-react-helmet="true" name="msapplication-TileImage" content="https://static-production.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png" />
+        <meta data-react-helmet="true" name="msapplication-config" content="https://static-production.npmjs.com/668aac888e52ae13cac9cfd71fabd31f.xml" />
+        <meta data-react-helmet="true" name="theme-color" content="#cb3837" />
+        <meta data-react-helmet="true" name="description" content="SEO plugin for Next.js projects. Latest version: 6.1.0, last published: 4 months ago. Start using next-seo in your project by running `npm i next-seo`. There are 139 other projects in the npm registry using next-seo." />
+        <meta data-react-helmet="true" property="og:description" content="SEO plugin for Next.js projects. Latest version: 6.1.0, last published: 4 months ago. Start using next-seo in your project by running `npm i next-seo`. There are 139 other projects in the npm registry using next-seo." />
+        <meta data-react-helmet="true" property="og:title" content="next-seo" />
+        <meta data-react-helmet="true" property="og:url" content="https://www.npmjs.com/package/next-seo" />
+        <meta data-react-helmet="true" property="og:site_name" content="npm" />
+        <meta data-react-helmet="true" name="keywords" content="next.js,seo,react,node,ssr" />
+        <meta data-react-helmet="true" name="twitter:card" content="summary" />
+        <meta data-react-helmet="true" name="twitter:url" content="https://www.npmjs.com/package/next-seo" />
+        <meta data-react-helmet="true" name="twitter:title" content="npm: next-seo" />
+        <meta data-react-helmet="true" name="twitter:description" content="SEO plugin for Next.js projects. Latest version: 6.1.0, last published: 4 months ago. Start using next-seo in your project by running `npm i next-seo`. There are 139 other projects in the npm registry using next-seo." />
+
+
+
+        <style data-styled="active" data-styled-version="5.3.5"></style></head>
 
       <body className={inter.className}>{children}</body>
     </html>
