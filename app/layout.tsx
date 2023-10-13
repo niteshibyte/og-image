@@ -26,7 +26,7 @@ export default function RootLayout({
         <meta data-react-helmet="true" http-equiv="cleartype" content="on" />
         <meta data-react-helmet="true" name="apple-mobile-web-app-capable" content="yes" />
         <meta data-react-helmet="true" name="viewport" content="width=device-width,minimum-scale=1.0,initial-scale=1,user-scalable=yes" />
-        <meta data-react-helmet="true" property="og:image" content="https://www.franciscomoretti.com/_next/image?url=%2Fthumbnails%2Fsetting-up-static-og-image-nextjs-app-router.png" />
+        <meta data-react-helmet="true" property="og:image" content="https://tinyjpg.com/images/social/website.jpg" />
         <meta data-react-helmet="true" name="msapplication-TileColor" content="#cb3837" />
         <meta data-react-helmet="true" name="msapplication-TileImage" content="https://static-production.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png" />
         <meta data-react-helmet="true" name="msapplication-config" content="https://static-production.npmjs.com/668aac888e52ae13cac9cfd71fabd31f.xml" />
